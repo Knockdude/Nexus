@@ -4,3 +4,4 @@ Actualmente cuenta con IAs como ChatGPT, Claude y Gemini, y la idea es seguir ag
 Hay un pequeño detalle con las IAs agregadas como ChatGPT, Claude y Gemini: son 30 solicitudes por cada 10 segundos.
 Nexus todavía está en desarrollo, así que algunas cosas pueden cambiar o mejorar más adelante (las IAS como chat gpt,
 cloude y gemini fueron sacadas de https://developer.puter.com/)
+(post data: nexus 1.3 esta siendo trabajado, sera publicado en puter y conectado a nexus)
