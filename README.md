@@ -1,7 +1,5 @@
-Nexus es una página que reúne diferentes inteligencias artificiales en un mismo lugar. Puedes elegir entre distintas 
-IAs desde el selector y utilizarlas directamente desde la página, sin tener que cambiar constantemente de sitio.
-Actualmente cuenta con IAs como ChatGPT, Claude y Gemini, y la idea es seguir agregando más modelos y funciones con el tiempo.
-Hay un pequeño detalle con las IAs agregadas como ChatGPT, Claude y Gemini: son 30 solicitudes por cada 10 segundos.
-Nexus todavía está en desarrollo, así que algunas cosas pueden cambiar o mejorar más adelante (las IAS como chat gpt,
-cloude y gemini fueron sacadas de https://developer.puter.com/)
-(post data: nexus 1.3 esta siendo trabajado, sera publicado en puter y conectado a nexus)
+Nexus es un chat con inteligencia artificial. Puedes preguntarle cosas, pedirle textos o ideas, crear imágenes y hasta usarlo para atender a tus clientes.
+Primero inicia sesión desde el menú de la izquierda. Así tus chats se guardan y los tendrás cuando vuelvas.
+Arriba a la derecha eliges con qué IA hablar. Nexus 1.3 tiene tres modos: uno para charlar, uno para atención al cliente y otro para crear imágenes. Si prefieres otra IA, también están Chat GPT 5, Claude y Gemini.
+Para el modo de atención al cliente, entra en "Configurar soporte" y escribe la información de tu negocio, como horarios, precios o envíos. Nexus responderá a tus clientes con esos datos.
+Tus conversaciones quedan en el menú lateral, donde puedes abrirlas otra vez o borrarlas. Funciona igual en el ordenador y en el móvil.
